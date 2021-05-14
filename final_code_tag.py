@@ -70,5 +70,6 @@ for m in range(len(lemmatised_messages)): # Не учитываем нейтра
 with open('anylised_messages.csv', 'w', encoding='utf-8') as f:
     fieldnames = ['id', 'messages', 'result_1', 'result_2']
     writer = csv.DictWriter(f, fieldnames=fieldnames)
+    writer.writeheader()
     for m in range(len(messages_4_csv)):
         writer.writerow({'id': m, 'messages': messages_4_csv[m], 'result_1': results_1[m], 'result_2': results_2[m]})
