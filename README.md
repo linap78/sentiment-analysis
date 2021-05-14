@@ -7,7 +7,7 @@
 - В итоге должна получиться программа
 - Как входные данные программа принимает выгруженный из Телеграма чат (html-файл)
 - Программма будет использовать модули re, pymorphy2, csv, statistics
-- Используются тональный словарь русского языка (https://github.com/dkulagin/kartaslov/tree/master/dataset/emo_dict), корпуса с размеченной тональностью сообщений RuSentiment (https://github.com/text-machine-lab/rusentiment), новый частотный словарь русской лексики О. Н. Ляшевской и С. А. Шарова (http://dict.ruslang.ru/freq.php)
+- Используются тональный словарь русского языка (https://github.com/dkulagin/kartaslov/tree/master/dataset/emo_dict), корпуса с размеченной тональностью сообщений RuSentiment (https://github.com/text-machine-lab/rusentiment)
 
 ## Критерий завершенного проекта
 
