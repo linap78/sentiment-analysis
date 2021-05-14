@@ -60,8 +60,3 @@ else:
     if input('Учитывать нейтральные слова? Пожалуйста, ответьте "да" или "нет" ') == "да":
         for m in range(len(lemmatised_messages)):
             lemmatised_messages[m] = mean(lemmatised_messages[m])
-
-
-
-
-
