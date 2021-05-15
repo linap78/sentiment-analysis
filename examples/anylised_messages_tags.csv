@@ -2,7 +2,7 @@ id,messages,result_1,result_2
 
 0,"Добрый день еще раз, информация для владельцев Mac, как использовать разный софт, который разработан для винды - поставить wine",NEUT,PSTV
 
-1,"Здесь вроде все подробно про wine <br><br><a href=""https://yablyk.com/775764-obzor-wine-ili-kak-zapuskat-windows-programmy-na-mac-macos/"">https://yablyk.com/775764-obzor-wine-ili-kak-zapuskat-windows-programmy-na-mac-macos/</a><br><br>Из аналогов atom и sublime",NEUT,NEUT
+1,"Здесь вроде все подробно про wine "https://yablyk.com/775764-obzor-wine-ili-kak-zapuskat-windows-programmy-na-mac-macos/"">https://yablyk.com/775764-obzor-wine-ili-kak-zapuskat-windows-programmy-na-mac-macos/ Из аналогов atom и sublime",NEUT,NEUT
 
 2,atom и sublime - аналоги NotePad++,NEUT,NEUT
 
@@ -10,17 +10,17 @@ id,messages,result_1,result_2
 
 4,"Ага, он будет использоваться для сдачи некоторых домашек",NEUT,NEUT
 
-5,"Кстати, всем привет! <br>Меня зовут Аня, мы с Катей <a href=""https://t.me/kattynatty"">@kattynatty</a> ваши ассистенты. Если у вас будут какие-то непонятки с домашками/вопросы по каким-то темам -- обращайтесь к нам, мы вам поможем",NEUT,PSTV
+5,"Кстати, всем привет! Меня зовут Аня, мы с Катей ваши ассистенты. Если у вас будут какие-то непонятки с домашками/вопросы по каким-то темам -- обращайтесь к нам, мы вам поможем",NEUT,PSTV
 
-6,"Здравствуйте, а что такое &quot;латинская метка&quot; в таблице?",NEUT,NEUT
+6,"Здравствуйте, а что такое латинская метка в таблице?",NEUT,NEUT
 
-7,И откуда брать &quot;ник говорящего&quot;?,NEUT,NEUT
+7,И откуда брать ник говорящего?,NEUT,NEUT
 
-8,"Привет<br>Про &quot;латинскую метку&quot; уточню,  а &quot;ник говорящего&quot; вы составляете сами, инструкция есть в вашем конспекте<br><a href=""https://olesar.github.io/lingdata2020/hw1-metadata.html"">https://olesar.github.io/lingdata2020/hw1-metadata.html</a>",NEUT,NEUT
+8,"Привет Про латинскую метку; уточню,  а ник говорящего вы составляете сами, инструкция есть в вашем конспекте <a href=""https://olesar.github.io/lingdata2020/hw1-metadata.html"">https://olesar.github.io/lingdata2020/hw1-metadata.html</a>",NEUT,NEUT
 
 9,Спасибо,NEUT,NEUT
 
-10,"&quot;латинская метка&quot; — это имя файла видео, которое вы будете размечать, оно должно быть латинскими буквами<br>вы потом увидете, в результате работы с видео у вас будут выходить файлы типа [name].[какое-то расширение], вот &quot;латинская метка&quot; = [name]",NEUT,NEUT
+10,латинская метка — это имя файла видео, которое вы будете размечать, оно должно быть латинскими буквами вы потом увидете, в результате работы с видео у вас будут выходить файлы типа [name].[какое-то расширение], вот латинская метка = [name]",NEUT,NEUT
 
 11,"То есть, пока что это не надо заполнять?",NEUT,NEUT
 
@@ -60,7 +60,7 @@ id,messages,result_1,result_2
 
 29,нужно ли заполнять длину размеченного фрагмента?,NEUT,NEUT
 
-30,в самой первой строчке в таблице написано &lt;пока не заполняем&gt;,NEUT,NEUT
+30,в самой первой строчке в таблице написано пока не заполняем,NEUT,NEUT
 
 31,Пока что не нужно заполнять),NEUT,NEUT
 
