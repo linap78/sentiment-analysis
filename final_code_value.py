@@ -46,13 +46,13 @@ results_2 = []
 results_3 = []
 
 for m in range(len(lemmatised_messages)):
-    results_1.append(mean(lemmatised_messages[m])) # Тональность сообщений с учётом нулевых значений
+    results_1.append(round(mean(lemmatised_messages[m]), 3)) # Тональность сообщений с учётом нулевых значений
 
 for m in range(len(lemmatised_messages)):
     while 0.0 in lemmatised_messages[m]:
         lemmatised_messages[m].remove(0.0)
     if lemmatised_messages[m]:
-        results_2.append(mean(lemmatised_messages[m])) # Тональность собщений без учёта нулевых значений, но с учётом нейтральных
+        results_2.append(round(mean(lemmatised_messages[m]), 3)) # Тональность собщений без учёта нулевых значений, но с учётом нейтральных
     else:
         results_2.append(0.0)
 
@@ -61,7 +61,7 @@ for m in range(len(lemmatised_messages)):
         if lemmatised_messages[m][w] >= 0.55 or lemmatised_messages[m][w] <= -0.5:
             message.append(lemmatised_messages[m][w])
     if message != []:
-        results_3.append(mean(message))
+        results_3.append(round(mean(message), 3))
     else:
         results_3.append(0.0)
 
